@@ -1,0 +1,166 @@
+ test read3           1           6         186
+ test read3           2           6         186
+ test read3           3           6         186
+ test read3           4           9          84
+ test read3           5           9          84
+ test read3           6           9          84
+ test read3           7          10          60
+ test read3           8          10          60
+ test read3           9          10          60
+ test read3          10          16          20
+ test read3          11          16          20
+ test read3          12          16          20
+ test read3          13          20          42
+ test read3          14          20          42
+ test read3          15          20          42
+ test read3          16          10           3
+ test read3          17          11           3
+ test read3          18           4           1
+ test read3          19           5           1
+ test read3          20           8           1
+ test read3          21           7           1
+ test read3          22           9           1
+ test read3          23          10           1
+ test read3          24          29          21
+ test read3          25          29          21
+ test read3          26          29          21
+ test read3          27          51          47
+ test read3          28          51          47
+ test read3          29          51          47
+ test read3          30          82          32
+ test read3          31          82          32
+ test read3          32          82          32
+ test read3          33          29          20
+ test read3          34          29          20
+ test read3          35          29          20
+ test read3          36          20          10
+ test read3          37          20          10
+ test read3          38          80           2
+ test read3          39          80           2
+ test read3          40          78           2
+ test read3          41          78           2
+ test read2            1         186
+ test read2            2         186
+ test read2            3         186
+ test read2            4          84
+ test read2            5          84
+ test read2            6          84
+ test read2            7          60
+ test read2            8          60
+ test read2            9          60
+ test read2           10          20
+ test read2           11          20
+ test read2           12          20
+ test read2           13          42
+ test read2           14          42
+ test read2           15          42
+ test read2           16           3
+ test read2           17           3
+ test read2           18           1
+ test read2           19           1
+ test read2           20           1
+ test read2           21           1
+ test read2           22           1
+ test read2           23           1
+ test read2           24          21
+ test read2           25          21
+ test read2           26          21
+ test read2           27          47
+ test read2           28          47
+ test read2           29          47
+ test read2           30          32
+ test read2           31          32
+ test read2           32          32
+ test read2           33          20
+ test read2           34          20
+ test read2           35          20
+ test read2           36          10
+ test read2           37          10
+ test read2           38           2
+ test read2           39           2
+ test read2           40           2
+ test read2           41           2
+ test 1            0           0           0
+ test 1            1         186           6
+ test 1            2         186           6
+ test 1            3         186           6
+ test 1            4          84           9
+ test 1            5          84           9
+ test 1            6          84           9
+ test 1            7          60          10
+ test 1            8          60          10
+ test 1            9          60          10
+ test 1           10          20          16
+ test 1           11          20          16
+ test 1           12          20          16
+ test 1           13          42          20
+ test 1           14          42          20
+ test 1           15          42          20
+ test 1           16           3          10
+ test 1           17           3          11
+ test 1           18           1           4
+ test 1           19           1           5
+ test 1           20           1           8
+ test 1           21           1           7
+ test 1           22           1           9
+ test 1           23           1          10
+ test 1           24          21          29
+ test 1           25          21          29
+ test 1           26          21          29
+ test 1           27          47          51
+ test 1           28          47          51
+ test 1           29          47          51
+ test 1           30          32          82
+ test 1           31          32          82
+ test 1           32          32          82
+ test 1           33          20          29
+ test 1           34          20          29
+ test 1           35          20          29
+ test 1           36          10          20
+ test 1           37          10          20
+ test 1           38           2          80
+ test 1           39           2          80
+ test 1           40           2          78
+ test 1           41           2          78
+ test 1            0           0           0
+ test 1            1         186           6
+ test 1            2         186           6
+ test 1            3         186           6
+ test 1            4          84           9
+ test 1            5          84           9
+ test 1            6          84           9
+ test 1            7          60          10
+ test 1            8          60          10
+ test 1            9          60          10
+ test 1           10          20          16
+ test 1           11          20          16
+ test 1           12          20          16
+ test 1           13          42          20
+ test 1           14          42          20
+ test 1           15          42          20
+ test 1           16           3          10
+ test 1           17           3          11
+ test 1           18           1           4
+ test 1           19           1           5
+ test 1           20           1           8
+ test 1           21           1           7
+ test 1           22           1           9
+ test 1           23           1          10
+ test 1           24          21          29
+ test 1           25          21          29
+ test 1           26          21          29
+ test 1           27          47          51
+ test 1           28          47          51
+ test 1           29          47          51
+ test 1           30          32          82
+ test 1           31          32          82
+ test 1           32          32          82
+ test 1           33          20          29
+ test 1           34          20          29
+ test 1           35          20          29
+ test 1           36          10          20
+ test 1           37          10          20
+ test 1           38           2          80
+ test 1           39           2          80
+ test 1           40           2          78
+ test 1           41           2          78
